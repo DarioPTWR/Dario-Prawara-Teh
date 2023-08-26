@@ -91,7 +91,14 @@ Here are some of the programming languages and tools I am familiar with:
 - **API Testing:** Postman
 - **Data Analysis:** Jupyter Notebook | Pandas
 - **Others:** Linux | Node.js
-  
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioPTWR&show_icons=true&locale=en" alt="DarioPTWR" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioPTWR&show_icons=true&locale=en&layout=compact" alt="DarioPTWR" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DarioPTWR&" alt="DarioPTWR" /></p>
+
 <h3 align="left">C O N N E C T &nbsp; W I T H &nbsp; M E &nbsp; 🔗</h3>
 
 --------
