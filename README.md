@@ -90,6 +90,7 @@ Here are some of the programming languages and tools I am familiar with:
 - **Design Tools:** Figma | Adobe Illustrator
 - **API Testing:** Postman
 - **Data Analysis:** Jupyter Notebook | Pandas
+- **Machine Learning:** Tensorflow | Keras | Scikit-Learn
 - **Others:** Linux | Node.js
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DarioPTWR&show_icons=true&locale=en" alt="DarioPTWR" /></p>
