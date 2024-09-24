@@ -18,7 +18,7 @@ Enthusiastic 18-year-old Computer Science Student &nbsp; | &nbsp; Studying at Si
 
 - 🕵🏻 Currently working on an AI-powered application GroceryGO to revolutionize grocery shopping for Singaporeans
 
-- 👨‍💻 View my personal website here : https://tinyurl.com/dario-tech
+- 👨‍💻 View my personal website here : [https://darioprawarateh.vercel.app](https://darioprawarateh.vercel.app)
   
 - 🌱 Currently learning React for Frontend Development
 
